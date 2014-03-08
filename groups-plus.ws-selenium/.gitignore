@@ -1,0 +1,12 @@
+
+
+#emacs backup files
+*~
+
+#eclipse settings
+.classpath
+.project
+/.settings
+
+~.class
+/target
